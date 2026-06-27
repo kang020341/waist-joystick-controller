@@ -7,6 +7,9 @@
 실제 구현에서는 부품 대여 문제로 자이로 센서 대신 조이스틱을 사용하여 시스템을 구현했습니다.
 
 ---
+## Hardware
+
+![Hardware](images/hardware.jpg)
 
 ## 개발 환경
 
